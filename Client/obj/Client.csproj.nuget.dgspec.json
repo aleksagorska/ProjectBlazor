@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aleksandra\\Desktop\\ProjectBlazor2\\ProjectBlazor\\Client\\Client.csproj": {}
+    "C:\\Users\\Aleksandra\\Desktop\\project blazor final\\ProjectBlazor\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aleksandra\\Desktop\\ProjectBlazor2\\ProjectBlazor\\Client\\Client.csproj": {
+    "C:\\Users\\Aleksandra\\Desktop\\project blazor final\\ProjectBlazor\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aleksandra\\Desktop\\ProjectBlazor2\\ProjectBlazor\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\Aleksandra\\Desktop\\project blazor final\\ProjectBlazor\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\Aleksandra\\Desktop\\ProjectBlazor2\\ProjectBlazor\\Client\\Client.csproj",
+        "projectPath": "C:\\Users\\Aleksandra\\Desktop\\project blazor final\\ProjectBlazor\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aleksandra\\Desktop\\ProjectBlazor2\\ProjectBlazor\\Client\\obj\\",
+        "outputPath": "C:\\Users\\Aleksandra\\Desktop\\project blazor final\\ProjectBlazor\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aleksandra\\AppData\\Roaming\\NuGet\\NuGet.Config",

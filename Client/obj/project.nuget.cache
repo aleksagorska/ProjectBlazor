@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4+6nfwIRWCMMd5DRihp/BOSlbIifmydqfaqHqmL4xfd30Kil0bimf8iS1rdIcnF/oqthgyZXf44HIbueyN8oVw==",
+  "dgSpecHash": "ENmDe5FYOQmqo2MvZ66BcKnMPDRsASbGGPLCvrKIjgQ1TFkWE2DVnfJ6D1HbkCUmOPFBlcFpWDXm0tZMaWNzVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aleksandra\\Desktop\\ProjectBlazor2\\ProjectBlazor\\Client\\Client.csproj",
+  "projectFilePath": "C:\\Users\\Aleksandra\\Desktop\\project blazor final\\ProjectBlazor\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleksandra\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.3\\microsoft.aspnetcore.authorization.6.0.3.nupkg.sha512",
     "C:\\Users\\Aleksandra\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.3\\microsoft.aspnetcore.components.6.0.3.nupkg.sha512",
