@@ -1,0 +1,199 @@
+﻿++Rozwiązanie „ProjectBlazor” ‎(liczba projektów: 1 z 1)
+i:{00000000-0000-0000-0000-000000000000}:ProjectBlazor.sln
+++Client
+i:{00000000-0000-0000-0000-000000000000}:Client
+++Connected Services 
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:>2044
+++Properties
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\properties\
+++wwwroot
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\
+++css
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\open-iconic\font\css\
+++img
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\img\
+++sample-data
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\sample-data\
+++weather.json
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\sample-data\weather.json
+++favicon.ico
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\favicon.ico
+++icon-192.png
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\icon-192.png
+++index.html
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\index.html
+++Zależności
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:>2043
+++Pages
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\pages\
+++Shared
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\shared\
+++_Imports.razor
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\_imports.razor
+++App.razor
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\app.razor
+++Employee.cs
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\employee.cs
+++Program.cs
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\program.cs
+++Nie odnaleziono zależności usługi
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:>2045
+++launchSettings.json
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\properties\launchsettings.json
+++bootstrap
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\bootstrap\
+++open-iconic
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\open-iconic\
+++app.css
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\app.css
+++Analizatory
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:analizatory
+++Pakiety
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:pakiety
+++Struktury
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:struktury
+++Counter.razor
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\pages\counter.razor
+++Employees.razor
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\pages\employees.razor
+++FetchData.razor
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\pages\fetchdata.razor
+++Index.razor
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\pages\index.razor
+++MainLayout.razor
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\shared\mainlayout.razor
+++NavMenu.razor
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\shared\navmenu.razor
+++SurveyPrompt.razor
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\shared\surveyprompt.razor
+++bootstrap.min.css
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\bootstrap\bootstrap.min.css
+++font
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\open-iconic\font\
+++FONT-LICENSE
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\open-iconic\font-license
+++ICON-LICENSE
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\open-iconic\icon-license
+++README.md
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\open-iconic\readme.md
+++ILLink.CodeFixProvider
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\illink.codefixprovider.dll
+++ILLink.RoslynAnalyzer
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\illink.roslynanalyzer.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\.nuget\packages\microsoft.aspnetcore.components.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.1\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.Components.WebAssembly (6.0.3)
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:>2054
+++Microsoft.AspNetCore.Components.WebAssembly.DevServer (6.0.3)
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:>2055
+++Microsoft.NETCore.App
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\microsoft.netcore.app
+++Employees.razor.css
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\pages\employees.razor.css
+++MainLayout.razor.css
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\shared\mainlayout.razor.css
+++NavMenu.razor.css
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\shared\navmenu.razor.css
+++bootstrap.min.css.map
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\bootstrap\bootstrap.min.css.map
+++fonts
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\open-iconic\font\fonts\
+++open-iconic-bootstrap.min.css
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+++open-iconic.eot
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+++open-iconic.otf
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+++open-iconic.svg
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+++open-iconic.ttf
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+++open-iconic.woff
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+++user.jpg
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\img\user.jpg
+++Dokumenty skryptów
+++localhost꞉7109/_framework/blazor.webassembly.js
+++localhost꞉7109/_framework/aspnetcore-browser-refresh.js
+++localhost꞉7109/_framework/dotnet.6.0.3.78ngvc80n8.js
+++file://c:\Users\Aleksandra\Desktop\project blazor final\ProjectBlazor\Client\Employee.cs
+++file://c:\Users\Aleksandra\Desktop\project blazor final\ProjectBlazor\Client\Shared\SurveyPrompt.razor
+++file://c:\Users\Aleksandra\Desktop\project blazor final\ProjectBlazor\Client\Shared\MainLayout.razor
+++file://c:\Users\Aleksandra\Desktop\project blazor final\ProjectBlazor\Client\Shared\NavMenu.razor
+++file://c:\Users\Aleksandra\Desktop\project blazor final\ProjectBlazor\Client\Pages\Counter.razor
+++file://c:\Users\Aleksandra\Desktop\project blazor final\ProjectBlazor\Client\Pages\FetchData.razor
+++file://c:\Users\Aleksandra\Desktop\project blazor final\ProjectBlazor\Client\Pages\Employees.razor
+++file://c:\Users\Aleksandra\Desktop\project blazor final\ProjectBlazor\Client\Program.cs
+++mono-wasm.invalid/converter_ii_result_unmarshaled
+++mono-wasm.invalid/variadic_converter_ii_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_GetCSOwnedObjectByJSHandle
+++mono-wasm.invalid/converter_mi
+++mono-wasm.invalid/variadic_converter_mi
+++mono-wasm.invalid/managed_BINDINGS_GetCSOwnedObjectJSHandle
+++mono-wasm.invalid/managed_BINDINGS_TryGetCSOwnedObjectJSHandle
+++mono-wasm.invalid/converter_iii_result_unmarshaled
+++mono-wasm.invalid/variadic_converter_iii_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_CreateCSOwnedProxy
+++mono-wasm.invalid/converter_i_result_unmarshaled
+++mono-wasm.invalid/variadic_converter_i_result_unmarshaled
+++mono-wasm.invalid/converter_m
+++mono-wasm.invalid/managed_BINDINGS_GetJSOwnedObjectByGCHandle
+++mono-wasm.invalid/variadic_converter_m
+++mono-wasm.invalid/managed_BINDINGS_GetJSOwnedObjectGCHandle
+++mono-wasm.invalid/converter_i
+++mono-wasm.invalid/variadic_converter_i
+++mono-wasm.invalid/managed_BINDINGS_ReleaseJSOwnedObjectByGCHandle
+++mono-wasm.invalid/converter_
+++mono-wasm.invalid/variadic_converter_
+++mono-wasm.invalid/managed_BINDINGS_CreateTaskSource
+++mono-wasm.invalid/converter_io
+++mono-wasm.invalid/variadic_converter_io
+++mono-wasm.invalid/managed_BINDINGS_SetTaskSourceResult
+++mono-wasm.invalid/variadic_converter_is
+++mono-wasm.invalid/converter_is
+++mono-wasm.invalid/managed_BINDINGS_SetTaskSourceFailure
+++mono-wasm.invalid/converter_mo
+++mono-wasm.invalid/managed_BINDINGS_SetupJSContinuation
+++mono-wasm.invalid/variadic_converter_mo
+++mono-wasm.invalid/managed_BINDINGS_GetTaskSourceTask
+++mono-wasm.invalid/managed_BINDINGS_ObjectToString
+++mono-wasm.invalid/managed_BINDINGS_GetDateValue
+++mono-wasm.invalid/converter_d_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_CreateDateTime
+++mono-wasm.invalid/variadic_converter_d_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_CreateUri
+++mono-wasm.invalid/variadic_converter_s_result_unmarshaled
+++mono-wasm.invalid/converter_s_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_IsSimpleArray
+++mono-wasm.invalid/converter_im
+++mono-wasm.invalid/variadic_converter_im
+++mono-wasm.invalid/converter_ssss
+++mono-wasm.invalid/variadic_converter_ssss
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_InvokeDotNet
+++mono-wasm.invalid/converter_s
+++mono-wasm.invalid/variadic_converter_s
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_BeginInvokeDotNet
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_EndInvokeJS
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_NotifyByteArrayAvailable
+++localhost꞉7109/_framework/blazor-hotreload.js
+++wisniewska.jpg
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\img\wisniewska.jpg
+++mazur.jpg
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\img\mazur.jpg
+++zawadzki.jpg
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\img\zawadzki.jpg
+++stachurski.jpg
+i:{8db10275-9a81-40c5-a5ce-878e8e9eba5b}:c:\users\aleksandra\desktop\project blazor final\projectblazor\client\wwwroot\img\stachurski.jpg

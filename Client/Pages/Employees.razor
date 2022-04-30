@@ -1,0 +1,94 @@
+﻿@page "/employees"
+<h3>Poznaj nasz zespół</h3>
+@if(employees != null)
+{
+<div class="d-flex justify-content-center flex-wrap">
+    @foreach (var s in employees)
+    {
+        <div class="employee-tab">
+            <div>
+                <img src="@s.PathToImg" class="employee-img" />
+            </div>
+            <div class="employee-name">@s.Name @s.Surname</div>
+            <div class="employee-position"> @s.Position</div>
+            <div class="employee-email">Email: @s.Email<br></div>
+            <div class="employee-phone">Telefon: @s.Phone</div>
+        </div>
+    }
+    </div>
+}
+else
+{
+    <div>Proszę czekać, trwa ładowanie profili pracowników...</div>
+}
+<div class="mt-5">
+        <h4>Dodawanie pracownika</h4>
+        <div class="row mt-3">
+              <div class="col-sm">
+                <div class="form-group mt-2">
+                    <label for="name">Imię</label>
+                    <input type="text" class="form-control" id="name" @bind-value="@firstName">
+                </div>
+                <div class="form-group mt-2">
+                    <label for="surname">Nazwisko</label>
+                    <input type="text" class="form-control" id="surname" @bind-value="@lastName">
+                </div>
+                <div class="form-group mt-2">
+                    <label for="position">Zawód</label>
+                    <input type="text" class="form-control" id="position" @bind-value="@jobTitle">
+                </div>
+                <div class="form-group mt-2">
+                    <label for="email">Email</label>
+                    <input type="text" class="form-control" id="email" @bind-value="@emailAddress">
+                </div>
+                <div class="form-group mt-2">
+                    <label for="">Telefon</label>
+                    <input type="text" class="form-control" id="phone" @bind-value="@phoneNumber">
+                </div>
+                <button class="btn btn-primary mt-5" @onclick="AddEmployee">Dodaj pracownika</button>
+              </div>
+              <div class="col-sm"></div>
+              <div class="col-sm"></div>
+        </div>
+    </div>
+    
+
+
+@code {
+
+        List<Employee> employees;
+        string? firstName;
+        string? lastName;
+        string? jobTitle;
+        string? phoneNumber;
+        string? emailAddress;
+
+        protected override async Task OnInitializedAsync()
+        {
+            await Task.Delay(500);
+            employees = new List<Employee>()
+            {
+                new Employee() { Id = 1, PathToImg="/img/employee1.jpg", Name="Zbigniew", Surname="Zawadzki", Position="Kierownik", Email="z.zawadzki@firma.pl", Phone="123 123 123" },
+                new Employee() { Id = 2, PathToImg="/img/employee2.jpg",Name="Adam", Surname="Stachurski", Position="Informatyk", Email="a.stachurski@firma.pl", Phone="123 123 123" },
+                new Employee() { Id = 3, PathToImg="/img/employee3.jpg", Name="Marzena", Surname="Wiśniewska", Position="Kadrowa", Email="m.wisniewska@firma.pl", Phone="123 123 123" },
+                new Employee() { Id = 4, PathToImg="/img/employee4.jpg", Name="Agnieszka", Surname="Mazur", Position="Księgowa", Email="a.mazur@firma.pl", Phone="123 123 123" }
+            };
+        }
+
+        void AddEmployee()
+        {
+            var employee = new Employee
+            {
+                Name = firstName,
+                Surname = lastName,
+                Position = jobTitle,
+                Phone = phoneNumber,
+                Email = emailAddress,
+                PathToImg = "/img/user.jpg"
+
+            };
+            employee.Id = employees.Max(s => s.Id) + 1;
+            employees.Add(employee);
+        }
+
+}

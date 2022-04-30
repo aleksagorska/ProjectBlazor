@@ -1,0 +1,56 @@
+﻿h3 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+.employee-tab {
+    background: rgba( 255, 255, 255, 0.2 );
+    box-shadow: 0 8px 20px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 0.5px );
+    -webkit-backdrop-filter: blur( 1.2px );
+    border-radius: 20px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    padding: 10px;
+    margin: 10px;
+    color: black;
+}
+
+.employee-img {
+    width: 250px;
+    background-color: transparent;
+    vertical-align: middle;
+    border-radius: 50%;
+    margin: 20px 5px;
+    background: rgba( 255, 255, 255, 0.1 );
+    box-shadow: 0 8px 10px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 0.5px );
+    -webkit-backdrop-filter: blur( 1.2px );
+}
+
+.employee-name {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    margin: 5px;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+.employee-position {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    margin: 5px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.employee-email {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    margin: 25px 5px 5px 5px;
+}
+
+.employee-phone {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    margin: 5px;
+}
